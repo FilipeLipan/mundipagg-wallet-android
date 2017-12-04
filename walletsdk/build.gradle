@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 
-group='com.mundipagg'
+group='com.github.FilipeLipan'
 
 version = '0.1.6'
 
