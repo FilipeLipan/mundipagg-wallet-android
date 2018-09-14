@@ -29,6 +29,6 @@ Adicione o artifactory no `/build.gradle` raíz
 E no seu `app/build.gradle`
 ```gradle
     // wallet sdk
-     compile 'com.github.flip-Payments:mundipagg-wallet-android:x.x.x'
+     implementation 'com.github.FilipeLipan:mundipagg-wallet-android:1.1.43'
 ```
 
